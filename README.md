@@ -7,7 +7,7 @@ A malicious .cab creation tool for CVE-2021-40444
 
 # PoC
 
-![alt text](https://github.com/mansk1es/Caboom/blob/main/images/poc.PNG)
+![alt text](https://github.com/mansk1es/Caboom/blob/main/images/pocc.PNG)
 
 
 # USAGE
