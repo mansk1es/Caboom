@@ -1,0 +1,7 @@
+D:\Excluded\Caboom\Caboom\bin\Debug\Caboom.exe.config
+D:\Excluded\Caboom\Caboom\bin\Debug\Caboom.exe
+D:\Excluded\Caboom\Caboom\bin\Debug\Caboom.pdb
+D:\Excluded\Caboom\Caboom\obj\Debug\Caboom.csprojAssemblyReference.cache
+D:\Excluded\Caboom\Caboom\obj\Debug\Caboom.csproj.CoreCompileInputs.cache
+D:\Excluded\Caboom\Caboom\obj\Debug\Caboom.exe
+D:\Excluded\Caboom\Caboom\obj\Debug\Caboom.pdb

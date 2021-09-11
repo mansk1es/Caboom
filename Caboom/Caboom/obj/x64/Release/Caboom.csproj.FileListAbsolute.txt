@@ -1,0 +1,6 @@
+D:\Excluded\Caboom\Caboom\bin\x64\Release\Caboom.exe.config
+D:\Excluded\Caboom\Caboom\bin\x64\Release\Caboom.exe
+D:\Excluded\Caboom\Caboom\bin\x64\Release\Caboom.pdb
+D:\Excluded\Caboom\Caboom\obj\x64\Release\Caboom.csproj.CoreCompileInputs.cache
+D:\Excluded\Caboom\Caboom\obj\x64\Release\Caboom.exe
+D:\Excluded\Caboom\Caboom\obj\x64\Release\Caboom.pdb
